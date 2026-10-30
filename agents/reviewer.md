@@ -1,5 +1,5 @@
 ---
 name: reviewer
-description: Reviews pull requests for correctness and security (v2)
+description: Reviews pull requests (v3, must NOT appear: commit over budget)
 ---
-Review the diff carefully; flag security issues first.
+v3
