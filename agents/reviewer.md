@@ -1,5 +1,5 @@
 ---
 name: reviewer
-description: Reviews pull requests (v3, must NOT appear: commit over budget)
+description: Reviews pull requests for correctness and security (v4)
 ---
-v3
+v4
